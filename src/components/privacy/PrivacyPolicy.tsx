@@ -15,7 +15,7 @@ export function PrivacyPolicy() {
 
           <PrivacySection title="Giới thiệu">
             <p className="text-gray-600">
-              Chúng tôi cam kết bảo vệ quyền riêng tư của bạn. Chính sách này mô tả cách chúng tôi thu thập, 
+              Chúng tôi cam kết bảo vệ quyền riêng tư của bạn. Chính sách này mô tả cách chúng tôi thu thập,
               sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng <strong>PHSC Kegel</strong>.
             </p>
           </PrivacySection>
@@ -38,7 +38,7 @@ export function PrivacyPolicy() {
 
           <PrivacySection title="Chia sẻ thông tin">
             <p className="text-gray-600 mb-4">
-              Chúng tôi cam kết không bán hoặc chia sẻ thông tin cá nhân của bạn với bên thứ ba 
+              Chúng tôi cam kết không bán hoặc chia sẻ thông tin cá nhân của bạn với bên thứ ba
               mà không có sự đồng ý của bạn, trừ khi:
             </p>
             <PrivacyList items={[
@@ -49,7 +49,7 @@ export function PrivacyPolicy() {
 
           <PrivacySection title="Bảo mật thông tin">
             <p className="text-gray-600">
-              Chúng tôi áp dụng các biện pháp bảo mật thích hợp để bảo vệ thông tin cá nhân của bạn 
+              Chúng tôi áp dụng các biện pháp bảo mật thích hợp để bảo vệ thông tin cá nhân của bạn
               khỏi việc truy cập trái phép, thay đổi, tiết lộ hoặc phá hủy.
             </p>
           </PrivacySection>
@@ -67,7 +67,7 @@ export function PrivacyPolicy() {
               <Mail className="w-5 h-5" />
               <span>Liên hệ về quyền riêng tư:</span>
               <a href="mailto:nhatbm118@gmail.com" className="text-secondary hover:text-secondary/90">
-                nhatbm118@gmail.com
+                buiminhnhat2398@gmail.com
               </a>
             </div>
           </div>
