@@ -26,7 +26,7 @@ export function Hero() {
             </div>
           </div>
           <div className="md:w-1/2">
-            <img 
+            <img
               src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=800&q=80"
               alt="Phụ nữ tập yoga"
               className="rounded-2xl shadow-2xl"

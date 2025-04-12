@@ -10,7 +10,7 @@ export function Footer() {
             <h3 className="text-xl font-bold mb-4">PHSC Kegel</h3>
             <p className="text-gray-400">Đồng hành cùng sức khỏe sàn chậu của bạn</p>
           </div>
-          
+
           <div>
             <h4 className="font-semibold mb-4">Liên kết</h4>
             <ul className="space-y-2">
@@ -21,16 +21,14 @@ export function Footer() {
               <li><a href="#privacy" className="text-gray-400 hover:text-white">Quyền riêng tư</a></li>
             </ul>
           </div>
-          
+
           <div>
             <h4 className="font-semibold mb-4">Liên hệ</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: support@phsckegel.com</li>
-              <li>Điện thoại: 1900 xxxx</li>
-              <li>Địa chỉ: Hà Nội, Việt Nam</li>
+              <li>Email: buiminhnhat2398@gmail.com</li>
             </ul>
           </div>
-          
+
           <div>
             <h4 className="font-semibold mb-4">Theo dõi chúng tôi</h4>
             <div className="flex space-x-4">
@@ -46,7 +44,7 @@ export function Footer() {
             </div>
           </div>
         </div>
-        
+
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
           <p>&copy; 2024 PHSC Kegel. Tất cả quyền được bảo lưu.</p>
         </div>
