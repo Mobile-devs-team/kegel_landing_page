@@ -26,6 +26,7 @@ export function Footer() {
             <h4 className="font-semibold mb-4">Liên hệ</h4>
             <ul className="space-y-2 text-gray-400">
               <li>Email: buiminhnhat2398@gmail.com</li>
+              <li>Facebook: https://web.facebook.com/bsthuylan1984</li>
             </ul>
           </div>
 
