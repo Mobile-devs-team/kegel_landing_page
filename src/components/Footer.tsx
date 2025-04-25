@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">PHSC Kegel</h3>
+            <h3 className="text-xl font-bold mb-4">PFMT Phục Hồi Sàn Chậu</h3>
             <p className="text-gray-400">Đồng hành cùng sức khỏe sàn chậu của bạn</p>
           </div>
 
@@ -47,7 +47,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 PHSC Kegel. Tất cả quyền được bảo lưu.</p>
+          <p>&copy; 2025 PFMT PHSC . Tất cả quyền được bảo lưu.</p>
         </div>
       </div>
     </footer>

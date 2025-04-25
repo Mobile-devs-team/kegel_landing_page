@@ -12,7 +12,7 @@ export function Hero() {
               <span className="text-secondary"> dễ dàng hơn bao giờ hết</span>
             </h1>
             <p className="text-lg text-gray-600 mb-8">
-              PHSC Kegel giúp bạn tập luyện đúng cách với hướng dẫn chi tiết, theo dõi tiến độ và nhận được sự hỗ trợ từ các chuyên gia y tế hàng đầu.
+              PFMT - Phục Hồi Sàn Chậu giúp bạn tập luyện đúng cách với hướng dẫn chi tiết, theo dõi tiến độ và nhận được sự hỗ trợ từ các chuyên gia y tế hàng đầu.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="bg-secondary text-white px-8 py-3 rounded-full flex items-center justify-center space-x-2 hover:bg-secondary/90">

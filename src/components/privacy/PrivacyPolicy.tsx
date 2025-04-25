@@ -16,7 +16,7 @@ export function PrivacyPolicy() {
           <PrivacySection title="Giới thiệu">
             <p className="text-gray-600">
               Chúng tôi cam kết bảo vệ quyền riêng tư của bạn. Chính sách này mô tả cách chúng tôi thu thập,
-              sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng <strong>PHSC Kegel</strong>.
+              sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng <strong>PFMT Phục Hồi Sàn Chậu</strong>.
             </p>
           </PrivacySection>
 
